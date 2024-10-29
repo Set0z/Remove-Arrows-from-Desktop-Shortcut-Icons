@@ -1,2 +1,5 @@
 # Remove-Arrows-from-Desktop-Shortcut-Icons
-Remove Arrows from Desktop Shortcut Icons .bat file
+Удаление значковв стрелочек для ярлыков Windows
+
+
+Зпустить файл от имени администратора
