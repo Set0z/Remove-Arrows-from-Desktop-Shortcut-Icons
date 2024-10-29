@@ -34,8 +34,3 @@ This script enables easy control over the visibility of shortcut arrows in Windo
 Изменение стрелок выполняется через реестр, поэтому потребуется перезапуск проводника для применения изменений. Скрипт автоматически завершит процесс `explorer.exe` и запустит его заново.
 
 The arrow removal is done through the registry, so restarting Explorer is necessary for the changes to take effect. The script will automatically kill and restart `explorer.exe` for convenience.
-
----
-
-Надеюсь, что этот скрипт будет полезен для управления стрелками на ярлыках!
-Happy toggling your shortcut arrows!
